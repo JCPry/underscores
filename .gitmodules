@@ -1,0 +1,3 @@
+[submodule "wp-content/plugins/mp6"]
+	path = wp-content/plugins/mp6
+	url = https://github.com/wp-plugins/mp6.git
