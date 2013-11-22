@@ -1,3 +1,6 @@
 [submodule "wp-content/plugins/mp6"]
 	path = wp-content/plugins/mp6
 	url = https://github.com/wp-plugins/mp6.git
+[submodule "wp-content/themes/_s"]
+	path = wp-content/themes/_s
+	url = https://github.com/JCPry/_s.git
